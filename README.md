@@ -159,6 +159,6 @@ legal-solution/<br/>
 
 ---
 
-✅ **Practice Project** 
-📌 **Frontend Only** 
-💡 **Learning-focused Implementation** 
+✅ **Practice Project**<br/>
+📌 **Frontend Only**<br/>
+💡 **Learning-focused Implementation**<br/>
